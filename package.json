@@ -1,5 +1,5 @@
 {
-  "name": "ects-vlad-tsurkan",
+  "name": "ectsconverter",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/starcrafter1345/ectsConverter.git"
   },
-  "author": "starcrafter1345 <starcrafter1345@gmail.com>",
+  "author": "starcrafter1345",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/starcrafter1345/ectsConverter/issues"
